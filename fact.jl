@@ -4,5 +4,5 @@ function fact(n)
     for i=2:n
         x = x * i
     end
-    x
+    return x
 end
