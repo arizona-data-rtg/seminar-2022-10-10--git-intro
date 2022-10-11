@@ -1,4 +1,4 @@
-## Compute n! by Kevin
+## Compute n! By christian
 function fact(n)
     # adding an extra comment here for no reason
     # also adding semicolons because MATLAB RULEZ 
